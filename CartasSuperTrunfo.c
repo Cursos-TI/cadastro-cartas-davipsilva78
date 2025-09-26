@@ -71,6 +71,7 @@ int main() {
   scanf("%d", &pontosTuristicos2);
 
   printf("\n");
+  
   // Área para exibição dos dados da cidade
   printf("Carta 1:\n");
   printf("Estado: %c\n", estado1);
